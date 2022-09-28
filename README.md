@@ -4,9 +4,9 @@ This repo shows how to implement a simple Modal component using [HumbleUI].
 
 [HumbleUI]:https://github.com/HumbleUI/HumbleUI
 
-## Screenshot
+## Demo
 
-TODO: add screenshot here
+<img src="images/demo.gif">
 
 ## Development
 
