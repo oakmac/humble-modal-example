@@ -10,6 +10,8 @@ This repo shows how to implement a simple Modal component using [HumbleUI].
 
 ## Development
 
+Make sure that [Clojure v1.11.1](https://clojure.org/releases/downloads) is installed, then:
+
 ```sh
 ## run the program
 ./script/run.sh
